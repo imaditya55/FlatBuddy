@@ -1,4 +1,4 @@
-📄 README.md (copy-paste everything)
+
 # 🏠 Roommate Matcher – Smart Compatibility Based Matching System
 
 A full-stack web application that helps users find compatible roommates based on lifestyle preferences such as sleep schedule, study routine, cleanliness, noise tolerance, budget range, habits, and hostel location.
